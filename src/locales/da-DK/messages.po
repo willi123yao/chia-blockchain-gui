@@ -8,7 +8,7 @@ msgstr ""
 "Language: da_DK\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-04-27 04:12\n"
+"PO-Revision-Date: 2021-04-27 22:14\n"
 "Last-Translator: \n"
 "Language-Team: Danish\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -2005,11 +2005,11 @@ msgstr "Dit Harvester netværk"
 
 #: src/util/getDescriptiveError.ts:4
 msgid "[Error 13] Permission denied. You are trying to access a file/directory without having the necessary permissions. Most likely one of the plot folders in your config.yaml has an issue."
-msgstr ""
+msgstr "[Fejl 13] Tilladelse nægtet. Du prøver at få adgang til en fil / bibliotek uden at have de nødvendige tilladelser. Mest sandsynligt har en af plotmapperne i din config.yaml et problem."
 
 #: src/util/getDescriptiveError.ts:7
 msgid "[Error 22] File not found. Most likely one of the plot folders in your config.yaml has an issue."
-msgstr ""
+msgstr "[Fejl 22] Filen blev ikke fundet. Mest sandsynligt har en af plotmapperne i din config.yaml et problem."
 
 #: src/components/wallet/WalletStatusCard.tsx:30
 #: src/components/wallet/Wallets.tsx:121
