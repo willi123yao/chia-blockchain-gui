@@ -8,7 +8,7 @@ msgstr ""
 "Language: sv_SE\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-04-27 04:12\n"
+"PO-Revision-Date: 2021-04-27 10:16\n"
 "Last-Translator: \n"
 "Language-Team: Swedish\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -2006,11 +2006,11 @@ msgstr "Ditt nätverk av skördare"
 
 #: src/util/getDescriptiveError.ts:4
 msgid "[Error 13] Permission denied. You are trying to access a file/directory without having the necessary permissions. Most likely one of the plot folders in your config.yaml has an issue."
-msgstr ""
+msgstr "[Felkod 13] Åtkomst nekan. Du saknar behörighet till en fil eller katalog. Troligtvis för en av katalogerna för plottar i din config.yaml."
 
 #: src/util/getDescriptiveError.ts:7
 msgid "[Error 22] File not found. Most likely one of the plot folders in your config.yaml has an issue."
-msgstr ""
+msgstr "[Felkod 22] Filen går inte att hitta. Troligtvis en av katalog för plottar i din config.yaml som är felaktig."
 
 #: src/components/wallet/WalletStatusCard.tsx:30
 #: src/components/wallet/Wallets.tsx:121
