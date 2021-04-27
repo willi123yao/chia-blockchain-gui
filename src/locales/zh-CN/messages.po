@@ -8,7 +8,7 @@ msgstr ""
 "Language: zh_CN\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-04-26 22:11\n"
+"PO-Revision-Date: 2021-04-27 04:12\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -2002,6 +2002,14 @@ msgstr "你的全节点连接"
 #: src/components/farm/FarmYourHarvesterNetwork.tsx:56
 msgid "Your Harvester Network"
 msgstr "你的收割网络"
+
+#: src/util/getDescriptiveError.ts:4
+msgid "[Error 13] Permission denied. You are trying to access a file/directory without having the necessary permissions. Most likely one of the plot folders in your config.yaml has an issue."
+msgstr "[错误 13] 权限被拒绝。您正试图访问的文件或目录没有必需的权限。农田文件夹中的 config.yaml 文件可能存在问题。"
+
+#: src/util/getDescriptiveError.ts:7
+msgid "[Error 22] File not found. Most likely one of the plot folders in your config.yaml has an issue."
+msgstr "[错误 22] 文件未找到。农田文件夹中的 config.yaml 文件可能存在问题。"
 
 #: src/components/wallet/WalletStatusCard.tsx:30
 #: src/components/wallet/Wallets.tsx:121
