@@ -8,7 +8,7 @@ msgstr ""
 "Language: pl_PL\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-04-27 10:16\n"
+"PO-Revision-Date: 2021-04-27 22:14\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
@@ -1247,7 +1247,7 @@ msgstr "Publiczny klucz puli"
 
 #: src/components/block/Block.jsx:260
 msgid "Pool Puzzle Hash"
-msgstr ""
+msgstr "Pool Puzzle Hash"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:96
 msgid "Pool Reward Address"
@@ -1351,7 +1351,7 @@ msgstr "Opcje ograniczenia czasowego"
 
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:275
 msgid "Rate Limited User Wallet Setup"
-msgstr ""
+msgstr "Oceń ograniczoną konfigurację portfela użytkownika"
 
 #: src/components/wallet/coloured/WalletColoured.tsx:453
 #: src/components/wallet/standard/WalletStandard.tsx:367
@@ -1380,7 +1380,7 @@ msgstr "Zgłoś problem..."
 
 #: src/components/backup/BackupRestore.tsx:107
 msgid "Restore Metadata for Coloured Coins and other Smart Wallets from Backup"
-msgstr ""
+msgstr "Przywróć metadane kolorowych monet i innych inteligentnych portfeli z kopii zapasowej"
 
 #: src/components/backup/BackupRestore.tsx:107
 #~ msgid "Restore Smart Wallets From Backup"
@@ -1472,11 +1472,11 @@ msgstr "Wyślij"
 
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:478
 msgid "Send this info packet to your Rate Limited Wallet user who must use it to complete setup of their wallet:"
-msgstr ""
+msgstr "Wyślij ten pakiet informacji do użytkownika portfela z ograniczoną opcją, który musi go użyć do ukończenia konfiguracji swojego portfela:"
 
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:285
 msgid "Send your pubkey to your Rate Limited Wallet admin:"
-msgstr ""
+msgstr "Wyślij swój klucz publiczny do administratora portfela z ograniczeniami dotyczącymi stawek:"
 
 #: src/components/core/components/AdvancedOptions/AdvancedOptions.tsx:40
 msgid "Show Advanced Options"
@@ -1656,15 +1656,15 @@ msgstr "Węzeł jest w trakcie synchronizacji, co znaczy że pobiera bloki z inn
 
 #: src/components/block/Block.jsx:271
 msgid "The seed used to create the plot. This depends on the pool pk and plot pk."
-msgstr ""
+msgstr "Ziarno użyte do stworzenia fabuły. Zależy to od puli puli i pk działki."
 
 #: src/components/block/Block.jsx:223
 msgid "The total number of VDF (verifiable delay function) or proof of time iterations on the whole chain up to this sub block."
-msgstr ""
+msgstr "Całkowita liczba VDF (weryfikowalna funkcja opóźnienia) lub dowód iteracji czasowych w całym łańcuchu aż do tego podbloku."
 
 #: src/components/block/Block.jsx:233
 msgid "The total number of VDF (verifiable delay function) or proof of time iterations on this block."
-msgstr ""
+msgstr "Całkowita liczba VDF (weryfikowalna funkcja opóźnienia) lub dowód iteracji czasowych w tym bloku."
 
 #: src/components/block/Block.jsx:297
 msgid "The total transactions fees in this block. Rewarded to the farmer."
@@ -1676,7 +1676,7 @@ msgstr "Te działki są nieprawidłowe, możesz chcieć je usunąć."
 
 #: src/components/plot/PlotAddDirectoryDialog.tsx:44
 msgid "This allows you to add a directory that has plots in it. If you have not created any plots, go to the plotting screen."
-msgstr ""
+msgstr "Pozwala to na dodanie katalogu zawierającego wykresy. Jeśli nie utworzyłeś żadnych wykresów, przejdź do ekranu kreślenia."
 
 #: src/components/trading/CreateOffer.jsx:132
 #: src/hooks/useSelectDirectory.tsx:26
@@ -1686,15 +1686,15 @@ msgstr "Ta funkcja jest dostępna tylko z GUI."
 
 #: src/components/wallet/standard/WalletStandard.tsx:201
 msgid "This is the amount of Chia that you can currently use to make transactions. It does not include pending farming rewards, pending incoming transactions, and Chia that you have just spent but is not yet in the blockchain."
-msgstr ""
+msgstr "To jest ilość Chia, której możesz obecnie użyć do dokonywania transakcji. Nie obejmuje oczekujących nagród hodowlanych, oczekujących transakcji przychodzących i Chia, które właśnie wydałeś, ale nie jest jeszcze w łańcuchu blokowym."
 
 #: src/components/wallet/standard/WalletStandard.tsx:228
 msgid "This is the pending change, which are change coins which you have sent to yourself, but have not been confirmed yet."
-msgstr ""
+msgstr "To oczekująca zmiana, czyli monety reszty, które wysłałeś do siebie, ale nie zostały jeszcze potwierdzone."
 
 #: src/components/wallet/standard/WalletStandard.tsx:223
 msgid "This is the sum of the incoming and outgoing pending transactions (not yet included into the blockchain). This does not include farming rewards."
-msgstr ""
+msgstr "Jest to suma przychodzących i wychodzących transakcji oczekujących (jeszcze nie uwzględnionych w łańcuchu bloków). Nie obejmuje to nagród za farmę."
 
 #: src/components/fullNode/FullNode.jsx:173
 msgid "This is the time of the latest peak sub block."
@@ -1706,7 +1706,7 @@ msgstr "Jest to czas, gdy blok został stworzony przez rolnika, zanim zostanie s
 
 #: src/components/wallet/standard/WalletStandard.tsx:195
 msgid "This is the total amount of chia in the blockchain at the current peak sub block that is controlled by your private keys. It includes frozen farming rewards, but not pending incoming and outgoing transactions."
-msgstr ""
+msgstr "Jest to całkowita ilość chia w łańcuchu blokowym w bieżącym bloku podrzędnym peak, który jest kontrolowany przez twoje klucze prywatne. Obejmuje nagrody z zamrożonego rolnictwa, ale nie obejmuje oczekujących transakcji przychodzących i wychodzących."
 
 #: src/components/wallet/standard/WalletStandard.tsx:218
 msgid "This is the total balance + pending balance: it is what your balance will be after all pending transactions are confirmed."
