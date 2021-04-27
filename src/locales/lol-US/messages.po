@@ -8,7 +8,7 @@ msgstr ""
 "Language: lol_US\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-04-26 16:03\n"
+"PO-Revision-Date: 2021-04-27 04:12\n"
 "Last-Translator: \n"
 "Language-Team: LOLCAT\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -2001,6 +2001,14 @@ msgstr ""
 
 #: src/components/farm/FarmYourHarvesterNetwork.tsx:56
 msgid "Your Harvester Network"
+msgstr ""
+
+#: src/util/getDescriptiveError.ts:4
+msgid "[Error 13] Permission denied. You are trying to access a file/directory without having the necessary permissions. Most likely one of the plot folders in your config.yaml has an issue."
+msgstr ""
+
+#: src/util/getDescriptiveError.ts:7
+msgid "[Error 22] File not found. Most likely one of the plot folders in your config.yaml has an issue."
 msgstr ""
 
 #: src/components/wallet/WalletStatusCard.tsx:30
