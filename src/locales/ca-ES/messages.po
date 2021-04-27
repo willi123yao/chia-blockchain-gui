@@ -8,7 +8,7 @@ msgstr ""
 "Language: ca_ES\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-04-27 04:12\n"
+"PO-Revision-Date: 2021-04-27 10:16\n"
 "Last-Translator: \n"
 "Language-Team: Catalan\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -32,7 +32,7 @@ msgstr "Es recomanen 128 cubells"
 
 #: src/components/farm/FarmYourHarvesterNetwork.tsx:58
 msgid "A harvester is a service running on a machine where plot(s) are actually stored. A farmer and harvester talk to a full node to see the state of the chain. View your network of connected harvesters below Learn more"
-msgstr "Un recolector és un servei que s'executa en una màquina on actualment s'emmagatzemen les parceles. Un agricultor i un recolector es comuniquen amb un node complert per veure l'estat de la cadena. Mireu la vostra cadena de recolectors connectats a continuació Mé informació"
+msgstr "Un recolector és un servei que s'executa en una màquina on actualment s'emmagatzemen les parcel·les. Un agricultor i un recolector es comuniquen amb un node complert per veure l'estat de la cadena. Mireu la vostra cadena de recolectors connectats a continuació Mé informació"
 
 #: src/electron/main.tsx:365
 #: src/electron/main.tsx:443
@@ -184,7 +184,7 @@ msgstr "Prova de Bloc"
 
 #: src/components/block/Block.jsx:230
 msgid "Block VDF Iterations"
-msgstr "Iteraciones de blov VDF"
+msgstr "Iteraciones de bloc VDF"
 
 #: src/components/block/Block.jsx:311
 msgid "Block at height {0} in the Chia blockchain"
@@ -253,7 +253,7 @@ msgstr "Cancelar i Gastar"
 
 #: src/components/plot/PlotsNotFound.tsx:26
 msgid "Caution, deleting these plots will delete them forever. Check that the storage devices are properly connected."
-msgstr ""
+msgstr "Precaució, eliminar aquestes parcel·les les eliminarà per sempre. Comproveu que els dispositius d'emmagatzematge estan correctament connectats."
 
 #: src/components/farm/FarmLastAttemptedProof.tsx:13
 msgid "Challenge"
@@ -281,11 +281,11 @@ msgstr "Moneder Chia"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:13
 msgid "Choose Number of Plots"
-msgstr "Escollir el Nombre de Parceles"
+msgstr "Escollir el Nombre de Parcel·les"
 
 #: src/components/plot/add/PlotAddChooseSize.tsx:54
 msgid "Choose Plot Size"
-msgstr "Escollir la Mida de la Parcela"
+msgstr "Escollir la Mida de la Parcel·la"
 
 #: src/components/plot/PlotAddDirectoryDialog.tsx:76
 #: src/components/plot/queue/PlotQueueLogDialog.tsx:48
@@ -414,15 +414,15 @@ msgstr "Crear Oferta"
 
 #: src/components/plot/add/PlotAdd.tsx:67
 msgid "Create Plot"
-msgstr "Crear Parcela"
+msgstr "Crear Parcel·la"
 
 #: src/components/wallet/create/createRLAdmin.jsx:198
 msgid "Create Rate Limited Admin Wallet"
-msgstr ""
+msgstr "Crear Moneder d'Administrador amb Tarifa Limitada"
 
 #: src/components/wallet/create/createRLUser.jsx:78
 msgid "Create Rate Limited User Wallet"
-msgstr ""
+msgstr "Crear Moneder d'Usuari amb Tarifa Limitada"
 
 #: src/components/trading/TradeManager.tsx:22
 #~ msgid "Create Trade"
@@ -430,33 +430,33 @@ msgstr ""
 
 #: src/components/trading/CreateOffer.jsx:146
 msgid "Create Trade Offer"
-msgstr ""
+msgstr "Crear Oferta Comercial"
 
 #: src/components/wallet/coloured/WalletColoured.tsx:396
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:729
 #: src/components/wallet/standard/WalletStandard.tsx:312
 msgid "Create Transaction"
-msgstr ""
+msgstr "Crear Transacció"
 
 #: src/components/backup/BackupCreate.tsx:58
 msgid "Create a Backup"
-msgstr ""
+msgstr "Crear Còpia de Seguretat"
 
 #: src/components/selectKey/SelectKey.tsx:109
 msgid "Create a new private key"
-msgstr ""
+msgstr "Crear una nova clau privada"
 
 #: src/components/wallet/create/WalletCreate.jsx:244
 msgid "Create admin wallet"
-msgstr ""
+msgstr "Crear moneder d'administrador"
 
 #: src/components/wallet/create/WalletCreate.jsx:180
 msgid "Create new coloured coin"
-msgstr ""
+msgstr "Crear nova moneda de color"
 
 #: src/components/wallet/create/WalletCreate.jsx:256
 msgid "Create user wallet"
-msgstr ""
+msgstr "Crear monoder d'usuari"
 
 #: src/components/wallet/create/createExistingColouredCoin.jsx:95
 msgid "Create wallet for colour"
