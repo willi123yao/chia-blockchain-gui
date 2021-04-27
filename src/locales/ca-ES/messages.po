@@ -8,7 +8,7 @@ msgstr ""
 "Language: ca_ES\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-04-27 10:16\n"
+"PO-Revision-Date: 2021-04-27 16:13\n"
 "Last-Translator: \n"
 "Language-Team: Catalan\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -161,7 +161,7 @@ msgstr "Valor base de la recompensa de l'agricultor"
 #: src/components/farm/FarmLatestBlockChallenges.tsx:25
 #: src/components/farm/FarmLatestBlockChallenges.tsx:31
 msgid "Below are the current block challenges. You may or may not have a proof of space for these challenges. These blocks do not currently contain a proof of time."
-msgstr ""
+msgstr "A continuació es mostren els reptes actuals de blocs. Podeu tenir o no una prova d’espai per a aquests reptes. Aquests blocs no contenen actualment una prova de temps."
 
 #: src/components/farm/card/FarmCardTotalNetworkSpace.tsx:8
 msgid "Best estimate over last 24 hours"
@@ -460,11 +460,11 @@ msgstr "Crear monoder d'usuari"
 
 #: src/components/wallet/create/createExistingColouredCoin.jsx:95
 msgid "Create wallet for colour"
-msgstr ""
+msgstr "Crea una cartera per al color"
 
 #: src/components/wallet/create/WalletCreate.jsx:192
 msgid "Create wallet for existing colour"
-msgstr ""
+msgstr "Crea una cartera per al color existent"
 
 #: src/components/wallet/Wallets.tsx:81
 #~ msgid "CreateWallet.addWallet"
@@ -476,19 +476,19 @@ msgstr "Creat El:"
 
 #: src/components/trading/TradingOverview.jsx:214
 msgid "Created by us:"
-msgstr ""
+msgstr "Creat per nosaltres:"
 
 #: src/components/trading/TradingOverview.jsx:184
 msgid "Current trade status"
-msgstr ""
+msgstr "Estat comercial actual"
 
 #: src/components/selectKey/SelectKey.tsx:98
 msgid "DANGER: permanently delete private key"
-msgstr ""
+msgstr "PERILL: elimineu definitivament la clau privada"
 
 #: src/components/wallet/Wallets.tsx:50
 msgid "DID Wallet"
-msgstr ""
+msgstr "Cartera DID"
 
 #: src/components/wallet/create/WalletCreate.jsx:310
 #~ msgid "DIDListItems.title"
@@ -498,11 +498,11 @@ msgstr ""
 #: src/components/trading/TradingOverview.jsx:137
 #: src/components/wallet/WalletHistory.tsx:36
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:57
 msgid "Delay"
-msgstr ""
+msgstr "Retard"
 
 #: src/components/plot/PlotAction.tsx:29
 #: src/components/plot/PlotAction.tsx:48
@@ -511,17 +511,17 @@ msgstr ""
 #: src/components/selectKey/SelectKey.tsx:39
 #: src/components/selectKey/SelectKey.tsx:53
 msgid "Delete"
-msgstr ""
+msgstr "Esborrar"
 
 #: src/components/plot/PlotAction.tsx:29
 #: src/components/plot/queue/PlotQueueActions.tsx:31
 msgid "Delete Plot"
-msgstr ""
+msgstr "Esborrar parcel·la"
 
 #: src/components/selectKey/SelectKey.tsx:53
 #: src/components/selectKey/SelectKey.tsx:122
 msgid "Delete all keys"
-msgstr ""
+msgstr "Esborrar totes les claus"
 
 #: src/components/selectKey/SelectKey.tsx:39
 msgid "Delete key"
@@ -529,11 +529,11 @@ msgstr "Suprimir clau"
 
 #: src/components/selectKey/SelectKey.tsx:54
 msgid "Deleting all keys will permanently remove the keys from your computer, make sure you have backups. Are you sure you want to continue?"
-msgstr ""
+msgstr "Si esborreu totes les claus, se suprimiran definitivament de l'ordinador i assegureu-vos que teniu còpies de seguretat. Esteu segur que voleu continuar?"
 
 #: src/components/selectKey/SelectKey.tsx:40
 msgid "Deleting the key will permanently remove the key from your computer, make sure you have backups. Are you sure you want to continue?"
-msgstr ""
+msgstr "Si esborreu la clau, se suprimirà definitivament de l'ordinador i assegureu-vos que teniu còpies de seguretat. Esteu segur que voleu continuar?"
 
 #: src/electron/main.tsx:260
 msgid "Developer"
@@ -554,11 +554,11 @@ msgstr "Dificultat"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:109
 msgid "Disable bitfield plotting"
-msgstr ""
+msgstr "Desactiva parcel.lació amb bitfield"
 
 #: src/components/fullNode/FullNodeCloseConnection.tsx:22
 msgid "Disconnect"
-msgstr ""
+msgstr "Desconnecta"
 
 #: src/components/wallet/create/WalletCreate.jsx:144
 #~ msgid "Distributed Identity"
@@ -566,12 +566,12 @@ msgstr ""
 
 #: src/components/wallet/create/WalletCreate.jsx:296
 msgid "Distributed Identity Options"
-msgstr ""
+msgstr "Opcions d'identitat distribuïdes"
 
 #: src/components/farm/overview/FarmOverviewHero.tsx:41
 #: src/components/plot/overview/PlotOverviewHero.tsx:35
 msgid "Do you have existing plots on this machine? <0>Add Plot Directory</0>"
-msgstr ""
+msgstr "Té parcel·les existents en aquesta màquina? <0> Afegeix un directori de  parcel.les </0>"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:30
 msgid "Does your machine support parallel plotting?"
@@ -2005,11 +2005,11 @@ msgstr ""
 
 #: src/util/getDescriptiveError.ts:4
 msgid "[Error 13] Permission denied. You are trying to access a file/directory without having the necessary permissions. Most likely one of the plot folders in your config.yaml has an issue."
-msgstr ""
+msgstr "[Error 13] Permís denegat. Esteu intentant accedir a un fitxer / directori sense tenir els permisos necessaris. El més probable és que una de les carpetes de trama del vostre config.yaml tingui un problema."
 
 #: src/util/getDescriptiveError.ts:7
 msgid "[Error 22] File not found. Most likely one of the plot folders in your config.yaml has an issue."
-msgstr ""
+msgstr "[Error 22] No s'ha trobat el fitxer. El més probable és que una de les carpetes de trama del vostre config.yaml tingui un problema."
 
 #: src/components/wallet/WalletStatusCard.tsx:30
 #: src/components/wallet/Wallets.tsx:121
