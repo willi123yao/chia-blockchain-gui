@@ -8,7 +8,7 @@ msgstr ""
 "Language: pl_PL\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-04-27 22:14\n"
+"PO-Revision-Date: 2021-04-28 16:38\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: src/components/farm/FarmLatestBlockChallenges.tsx:39
 msgid "*Want to explore Chia’s blocks further? Check out <0>Chia Explorer</0> built by an open source developer."
-msgstr "Chciałbyś dokładniej przejrzeć bloki Chia? Sprawdź otwartoźródłowy eksplorator bloków <0>Chia Explorer</0>."
+msgstr "Chciałbyś dokładniej przejrzeć bloki Chia? Sprawdź otwarte oprogramowanie eksploratora bloków <0>Chia Explorer</0>."
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:94
 #~ msgid "0 automatically chooses bucket count"
@@ -32,7 +32,7 @@ msgstr "Zalecane jest 128 wiader"
 
 #: src/components/farm/FarmYourHarvesterNetwork.tsx:58
 msgid "A harvester is a service running on a machine where plot(s) are actually stored. A farmer and harvester talk to a full node to see the state of the chain. View your network of connected harvesters below Learn more"
-msgstr "Żniwiarz to usługa pracująca na maszynie przechowywującej działki (plots). Rolnik i żniwiarz komunikują się z pełnym węzłem (full node) sprawdzając stan blockchaina. Wyświetl swoją sieć podłączonych żniwiarzy poniżej Dowiedz się więcej"
+msgstr "Żniwiarz to usługa pracująca na maszynie przechowywującej działki (plots). Rolnik i żniwiarz komunikują się z pełnym węzłem (full node) sprawdzając stan blockchaina. Wyświetl swoją sieć podłączonych żniwiarzy poniżej. Dowiedz się więcej"
 
 #: src/electron/main.tsx:365
 #: src/electron/main.tsx:443
@@ -69,18 +69,18 @@ msgstr "Dodaj folder z grządkami"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:44
 msgid "Add Plot to Queue"
-msgstr "Dodaj działkę, plot do kolejki"
+msgstr "Dodaj działkę do kolejki"
 
 #: src/components/wallet/Wallets.tsx:83
 msgid "Add Wallet"
-msgstr "Dodaj Portfel"
+msgstr "Dodaj portfel"
 
 #: src/components/farm/overview/FarmOverviewHero.tsx:35
 #: src/components/plot/PlotHeader.tsx:33
 #: src/components/plot/add/PlotAdd.tsx:55
 #: src/components/plot/overview/PlotOverviewHero.tsx:29
 msgid "Add a Plot"
-msgstr "Dodaj grządkę"
+msgstr "Dodaj działkę"
 
 #: src/components/plot/PlotAddDirectoryDialog.tsx:40
 msgid "Add a plot"
@@ -88,7 +88,7 @@ msgstr "Dodaj działkę"
 
 #: src/components/plot/PlotAddDirectoryDialog.tsx:69
 msgid "Add plot directory"
-msgstr "Dodaj folder z działkami, plotami"
+msgstr "Dodaj folder z działkami"
 
 #: src/components/wallet/coloured/WalletColoured.tsx:405
 #: src/components/wallet/coloured/WalletColoured.tsx:457
@@ -119,9 +119,9 @@ msgid "Amount For Initial Coin"
 msgstr "Kwota na monetę inicjującą"
 
 #: src/components/plot/PlotAction.tsx:30
-#: src/components/plot/queue/PlotQueueActions.tsx:32
+#: src/components/plot/queue/PlotQueueActions.tsx:27
 msgid "Are you sure you want to delete the plot? The plot cannot be recovered."
-msgstr "Czy na pewno chcesz usunąć tę działkę? Tej działki nie będzie można odzyskać."
+msgstr "Czy na pewno chcesz usunąć tę działkę? Nie będzie jej można potem odzyskać."
 
 #: src/components/fullNode/FullNodeCloseConnection.tsx:23
 msgid "Are you sure you want to disconnect?"
@@ -129,7 +129,7 @@ msgstr "Czy na pewno chcesz rozłączyć?"
 
 #: src/electron/main.tsx:164
 msgid "Are you sure you want to quit? GUI Plotting and farming will stop."
-msgstr "Czy na pewno? Oranie i uprawa grządek zostanią zatrzymane."
+msgstr "Czy na pewno? Tworzenie i farming działek zostaną zatrzymane."
 
 #: src/components/plot/add/PlotAddChooseSize.tsx:31
 #~ msgid "Are you sure you want to use k={plotSize}"
@@ -161,11 +161,11 @@ msgstr "Kwota podstawowej nagrody rolnika"
 #: src/components/farm/FarmLatestBlockChallenges.tsx:25
 #: src/components/farm/FarmLatestBlockChallenges.tsx:31
 msgid "Below are the current block challenges. You may or may not have a proof of space for these challenges. These blocks do not currently contain a proof of time."
-msgstr "Poniżej są aktualne wyzwania blokowe. Możesz mieć, albo nie, proof of space na któreś z tych wyzwań. Te bloki nie posiadają obecnie proof of time."
+msgstr "Poniżej są aktualne wyzwania blokowe. Możesz mieć proof of space na któreś z tych wyzwań. Te bloki nie posiadają obecnie proof of time."
 
 #: src/components/farm/card/FarmCardTotalNetworkSpace.tsx:8
 msgid "Best estimate over last 24 hours"
-msgstr "Najlepsze przybliżenie w ciągu ostatnich 24 godzin"
+msgstr "Najlepsza estymacja dla ostatnich 24 godzin"
 
 #: src/components/farm/card/FarmCardTotalNetworkSpace.tsx:8
 #~ msgid "Best estimate over last 5 hours"
@@ -484,7 +484,7 @@ msgstr "Aktualny status handlu"
 
 #: src/components/selectKey/SelectKey.tsx:98
 msgid "DANGER: permanently delete private key"
-msgstr "NIEBEZPIECZEŃSTWO: nieodwracalnie usuń klucz prywatny"
+msgstr "NIEBEZPIECZEŃSTWO: klucz prywatny zostanie nieodwracalnie usunięty"
 
 #: src/components/wallet/Wallets.tsx:50
 msgid "DID Wallet"
@@ -506,15 +506,15 @@ msgstr "Opóźnij"
 
 #: src/components/plot/PlotAction.tsx:29
 #: src/components/plot/PlotAction.tsx:48
-#: src/components/plot/queue/PlotQueueActions.tsx:31
-#: src/components/plot/queue/PlotQueueActions.tsx:65
+#: src/components/plot/queue/PlotQueueActions.tsx:26
+#: src/components/plot/queue/PlotQueueActions.tsx:60
 #: src/components/selectKey/SelectKey.tsx:39
 #: src/components/selectKey/SelectKey.tsx:53
 msgid "Delete"
 msgstr "Usuń"
 
 #: src/components/plot/PlotAction.tsx:29
-#: src/components/plot/queue/PlotQueueActions.tsx:31
+#: src/components/plot/queue/PlotQueueActions.tsx:26
 msgid "Delete Plot"
 msgstr "Usuń działkę"
 
@@ -632,7 +632,7 @@ msgstr "Pomiń folder docelowy"
 
 #: src/components/plot/PlotsFailed.tsx:24
 msgid "Failed to open (invalid plots)"
-msgstr "Nie udało się uprawiać (nieprawidłowe grządki)"
+msgstr "Nie udało się otworzyć (nieprawidłowe działki)"
 
 #: src/components/dashboard/DashboardSideBar.tsx:26
 #: src/components/wallet/coloured/WalletColoured.tsx:430
@@ -991,11 +991,11 @@ msgstr "Nie"
 
 #: src/middleware/middleware_api.jsx:283
 msgid "No 24 word seed, since this key is imported."
-msgstr "Brak seeda 24 słów, ponieważ ten klucz jest zaimportowany."
+msgstr "Brak ziarna (24 słowa), ponieważ ten klucz jest zaimportowany."
 
 #: src/components/farm/card/FarmCardLastHeightFarmed.tsx:8
 msgid "No blocks farmed yet"
-msgstr "Jeszcze nic nie wyhodowano"
+msgstr "Brak wyhodowanych bloków"
 
 #: src/components/wallet/WalletHistory.tsx:64
 msgid "No previous transactions"
@@ -1686,7 +1686,7 @@ msgstr "Ta funkcja jest dostępna tylko z GUI."
 
 #: src/components/wallet/standard/WalletStandard.tsx:201
 msgid "This is the amount of Chia that you can currently use to make transactions. It does not include pending farming rewards, pending incoming transactions, and Chia that you have just spent but is not yet in the blockchain."
-msgstr "To jest ilość Chia, której możesz obecnie użyć do dokonywania transakcji. Nie obejmuje oczekujących nagród hodowlanych, oczekujących transakcji przychodzących i Chia, które właśnie wydałeś, ale nie jest jeszcze w łańcuchu blokowym."
+msgstr "To jest ilość Chia, której możesz obecnie użyć do dokonywania transakcji. Nie obejmuje oczekujących nagród z farmienia, oczekujących transakcji przychodzących i Chia, które właśnie wydałeś, ale nie zostały potwierdzone w łańcuchu bloków."
 
 #: src/components/wallet/standard/WalletStandard.tsx:228
 msgid "This is the pending change, which are change coins which you have sent to yourself, but have not been confirmed yet."
@@ -1851,7 +1851,7 @@ msgstr "Podrzędne Iteracje VDF"
 msgid "View"
 msgstr "Widok"
 
-#: src/components/plot/queue/PlotQueueActions.tsx:54
+#: src/components/plot/queue/PlotQueueActions.tsx:49
 #: src/components/plot/queue/PlotQueueLogDialog.tsx:26
 msgid "View Log"
 msgstr "Zobacz Logi"
@@ -2001,7 +2001,7 @@ msgstr "Twoje połączenie pełnego węzła"
 
 #: src/components/farm/FarmYourHarvesterNetwork.tsx:56
 msgid "Your Harvester Network"
-msgstr "Twoja sieć zbieracza"
+msgstr "Twoja sieć żniwiarza"
 
 #: src/util/getDescriptiveError.ts:4
 msgid "[Error 13] Permission denied. You are trying to access a file/directory without having the necessary permissions. Most likely one of the plot folders in your config.yaml has an issue."
@@ -2058,5 +2058,5 @@ msgstr "{currencyCode} Całkowita ilość wydobytego Chia"
 
 #: src/components/farm/card/FarmCardUserFees.tsx:17
 msgid "{currencyCode} User Transaction Fees"
-msgstr "{currencyCode} Opłaty za transakcję użytkownika"
+msgstr "{currencyCode} Opłaty transakcyjne użytkownika"
 
