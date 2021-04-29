@@ -8,7 +8,7 @@ msgstr ""
 "Language: ko_KR\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-04-28 22:44\n"
+"PO-Revision-Date: 2021-04-29 04:55\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -580,7 +580,7 @@ msgstr "당신의 장치가 병렬 플로팅을 지원합니까?"
 #: src/components/trading/ViewOffer.jsx:41
 #: src/components/wallet/create/recoverDIDWallet.js:294
 msgid "Drag and drop offer file"
-msgstr ""
+msgstr "거래 파일을 끌어서 여기에 놓으세요"
 
 #: src/components/backup/BackupRestore.tsx:114
 msgid "Drag and drop your backup file"
@@ -854,7 +854,7 @@ msgstr "간격"
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:37
 msgid "K-Size"
-msgstr ""
+msgstr "K-크기"
 
 #: src/components/dashboard/DashboardSideBar.tsx:27
 msgid "Keys"
