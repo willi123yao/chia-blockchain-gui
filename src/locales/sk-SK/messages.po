@@ -8,7 +8,7 @@ msgstr ""
 "Language: sk_SK\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-04-29 04:55\n"
+"PO-Revision-Date: 2021-04-29 17:12\n"
 "Last-Translator: \n"
 "Language-Team: Slovak\n"
 "Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
@@ -65,11 +65,11 @@ msgstr "Pridať"
 
 #: src/components/plot/PlotHeader.tsx:51
 msgid "Add Plot Directory"
-msgstr "Pridať Adresár Polí"
+msgstr "Pridať adresár polí"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:44
 msgid "Add Plot to Queue"
-msgstr "Pridať Pole Do Fronty"
+msgstr "Pridať pole do fronty"
 
 #: src/components/wallet/Wallets.tsx:83
 msgid "Add Wallet"
@@ -80,7 +80,7 @@ msgstr "Pridať peňaženku"
 #: src/components/plot/add/PlotAdd.tsx:55
 #: src/components/plot/overview/PlotOverviewHero.tsx:29
 msgid "Add a Plot"
-msgstr "Pridať Pole"
+msgstr "Pridať pole"
 
 #: src/components/plot/PlotAddDirectoryDialog.tsx:40
 msgid "Add a plot"
@@ -156,7 +156,7 @@ msgstr "Zostatok"
 
 #: src/components/block/Block.jsx:290
 msgid "Base Farmer Reward Amount"
-msgstr "Základná Výška Odmeny Farmára"
+msgstr "Základná výška odmeny farmára"
 
 #: src/components/farm/FarmLatestBlockChallenges.tsx:25
 #: src/components/farm/FarmLatestBlockChallenges.tsx:31
@@ -180,11 +180,11 @@ msgstr "Blok"
 
 #: src/components/block/Block.jsx:124
 msgid "Block Test"
-msgstr "Test Bloku"
+msgstr "Test bloku"
 
 #: src/components/block/Block.jsx:230
 msgid "Block VDF Iterations"
-msgstr "VDF Iterácie Bloku"
+msgstr "Blok VDF iterácii"
 
 #: src/components/block/Block.jsx:311
 msgid "Block at height {0} in the Chia blockchain"
@@ -228,7 +228,7 @@ msgstr "Kúpiť"
 
 #: src/components/wallet/Wallets.tsx:36
 msgid "CC Wallet"
-msgstr "CC Peňaženka"
+msgstr "CC peňaženka"
 
 #: src/components/wallet/create/WalletCreate.jsx:182
 #~ msgid "CCListItems.title"
@@ -249,7 +249,7 @@ msgstr "Zrušiť"
 
 #: src/components/trading/TradingOverview.jsx:399
 msgid "Cancel and Spend"
-msgstr "Zrušiť a Minúť"
+msgstr "Zrušiť a minúť"
 
 #: src/components/plot/PlotsNotFound.tsx:26
 msgid "Caution, deleting these plots will delete them forever. Check that the storage devices are properly connected."
@@ -261,7 +261,7 @@ msgstr "Výzva"
 
 #: src/components/farm/FarmLatestBlockChallenges.tsx:11
 msgid "Challenge Hash"
-msgstr "Hash Výzvy"
+msgstr "Hash výzvy"
 
 #: src/electron/main.tsx:345
 msgid "Chat on KeyBase"
@@ -277,15 +277,15 @@ msgstr "Chia Blockchain Wiki"
 
 #: src/components/wallet/Wallets.tsx:32
 msgid "Chia Wallet"
-msgstr "Chia Peňaženka"
+msgstr "Chia peňaženka"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:13
 msgid "Choose Number of Plots"
-msgstr "Vyberte Počet Polí"
+msgstr "Vyberte počet polí"
 
 #: src/components/plot/add/PlotAddChooseSize.tsx:54
 msgid "Choose Plot Size"
-msgstr "Vyberte Veľkosť Poľa"
+msgstr "Vyberte veľkosť poľa"
 
 #: src/components/plot/PlotAddDirectoryDialog.tsx:76
 #: src/components/plot/queue/PlotQueueLogDialog.tsx:48
@@ -394,7 +394,7 @@ msgstr "Kopírovať"
 
 #: src/components/core/components/CopyToClipboard/CopyToClipboard.tsx:23
 msgid "Copy to Clipboard"
-msgstr "Skopírovať Do Schránky"
+msgstr "Skopírovať do schránky"
 
 #: src/components/backup/BackupCreate.tsx:70
 #: src/components/wallet/create/createExistingColouredCoin.jsx:141
@@ -410,7 +410,7 @@ msgstr "Vytvoriť DID peňaženku"
 
 #: src/components/trading/TradeManager.tsx:22
 msgid "Create Offer"
-msgstr "Vytvoriť Ponuku"
+msgstr "Vytvoriť ponuku"
 
 #: src/components/plot/add/PlotAdd.tsx:67
 msgid "Create Plot"
@@ -430,17 +430,17 @@ msgstr "Vytvoriť Používateľskú Peňaženku s Obmedzenou Sadzbou"
 
 #: src/components/trading/CreateOffer.jsx:146
 msgid "Create Trade Offer"
-msgstr "Vytvoriť Obchodnú Ponuku"
+msgstr "Vytvorte obchodnú ponuku"
 
 #: src/components/wallet/coloured/WalletColoured.tsx:396
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:729
 #: src/components/wallet/standard/WalletStandard.tsx:312
 msgid "Create Transaction"
-msgstr "Vytvoriť Transakciu"
+msgstr "Vytvoriť transakciu"
 
 #: src/components/backup/BackupCreate.tsx:58
 msgid "Create a Backup"
-msgstr "Vytvoriť Zálohu"
+msgstr "Vytvoriť zálohu"
 
 #: src/components/selectKey/SelectKey.tsx:109
 msgid "Create a new private key"
@@ -472,7 +472,7 @@ msgstr "Vytvoriť peňaženku pre existujúcu farbu"
 
 #: src/components/trading/TradingOverview.jsx:188
 msgid "Created At:"
-msgstr "Vytvorené O:"
+msgstr "Vytvorené o:"
 
 #: src/components/trading/TradingOverview.jsx:214
 msgid "Created by us:"
@@ -488,7 +488,7 @@ msgstr "POZOR: natrvalo odstrániť súkromný klúč"
 
 #: src/components/wallet/Wallets.tsx:50
 msgid "DID Wallet"
-msgstr "DID Peňaženka"
+msgstr "DID peňaženka"
 
 #: src/components/wallet/create/WalletCreate.jsx:310
 #~ msgid "DIDListItems.title"
@@ -516,7 +516,7 @@ msgstr "Zmazať"
 #: src/components/plot/PlotAction.tsx:29
 #: src/components/plot/queue/PlotQueueActions.tsx:30
 msgid "Delete Plot"
-msgstr "Zmazať Pole"
+msgstr "Zmazať pole"
 
 #: src/components/selectKey/SelectKey.tsx:53
 #: src/components/selectKey/SelectKey.tsx:122
@@ -541,7 +541,7 @@ msgstr "Vývojár"
 
 #: src/electron/main.tsx:263
 msgid "Developer Tools"
-msgstr "Nástroje Pre Vývojárov"
+msgstr "Nástroje pre vývojárov"
 
 #: src/components/block/Block.jsx:216
 #: src/components/fullNode/FullNode.jsx:178
@@ -566,7 +566,7 @@ msgstr "Odpojiť"
 
 #: src/components/wallet/create/WalletCreate.jsx:296
 msgid "Distributed Identity Options"
-msgstr "Možnosti Distribuovanej Identity"
+msgstr "Možnosti distribuovanej identity"
 
 #: src/components/farm/overview/FarmOverviewHero.tsx:41
 #: src/components/plot/overview/PlotOverviewHero.tsx:35
@@ -592,7 +592,7 @@ msgstr "Upraviť"
 
 #: src/components/wallet/WalletImport.tsx:67
 msgid "Enter the 24 word mnemonic that you have saved in order to restore your Chia wallet."
-msgstr "Zadate 24 slov, ktoré ste si uložili pre účely obnovenia vašej peňaženky Chia."
+msgstr "Zadajte 24 slov, ktoré ste si uložili pre účely obnovenia vašej peňaženky Chia."
 
 #: src/components/farm/FarmerStatus.tsx:30
 #: src/components/farm/FarmerStatus.tsx:31
@@ -611,11 +611,11 @@ msgstr "Chyba: Prosím zadajte platnú adresu."
 #: src/components/farm/card/FarmCardExpectedTimeToWin.tsx:32
 #: src/components/farm/card/FarmCardExpectedTimeToWin.tsx:34
 msgid "Estimated Time to Win"
-msgstr "Odhadovaný Čas Na Výhru"
+msgstr "Očakávaný čas na výhru"
 
 #: src/components/fullNode/FullNode.jsx:197
 msgid "Estimated network space"
-msgstr "Odhadovaná veľkosť siete"
+msgstr "Odhadovaná velkosť siete"
 
 #: src/components/fullNode/FullNode.jsx:200
 msgid "Estimated sum of all the plotted disk space of all farmers in the network"
@@ -701,7 +701,7 @@ msgstr "Poplatok ({currencyCode})"
 
 #: src/components/block/Block.jsx:294
 msgid "Fees Amount"
-msgstr "Výška Poplatkov"
+msgstr "Výška poplatkov"
 
 #: src/components/block/Block.jsx:313
 #~ msgid "Fees Puzzle Hash"
