@@ -8,7 +8,7 @@ msgstr ""
 "Language: th_TH\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-04-29 10:58\n"
+"PO-Revision-Date: 2021-04-29 17:13\n"
 "Last-Translator: \n"
 "Language-Team: Thai\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: src/components/farm/FarmLatestBlockChallenges.tsx:39
 msgid "*Want to explore Chia’s blocks further? Check out <0>Chia Explorer</0> built by an open source developer."
-msgstr ""
+msgstr "*อยากสำรวจบล็อกของ Chia มากกว่านี้หรือ? ลองเข้าไปดู <0>Chia Explorer</0> ที่ถูกสร้างโดยนักพัฒนาโอเพนซอร์ซสิ"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:94
 #~ msgid "0 automatically chooses bucket count"
@@ -28,7 +28,7 @@ msgstr ""
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:94
 msgid "128 buckets is recommended"
-msgstr "แนะนำที่ 128 บักเก็ต"
+msgstr "จำนวนบักเก็ตที่แนะนำคือ 128"
 
 #: src/components/farm/FarmYourHarvesterNetwork.tsx:58
 msgid "A harvester is a service running on a machine where plot(s) are actually stored. A farmer and harvester talk to a full node to see the state of the chain. View your network of connected harvesters below Learn more"
@@ -45,7 +45,7 @@ msgstr "ยอมรับ"
 
 #: src/components/trading/TradingOverview.jsx:230
 msgid "Accepted at time:"
-msgstr ""
+msgstr "ยอมรับเมื่อเวลา:"
 
 #: src/components/plot/PlotsFailed.tsx:14
 #: src/components/plot/PlotsNotFound.tsx:14
@@ -99,7 +99,7 @@ msgstr "ที่อยู่"
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:748
 #: src/components/wallet/standard/WalletStandard.tsx:321
 msgid "Address / Puzzle hash"
-msgstr ""
+msgstr "ที่อยู่ / พัซเซิลแฮช"
 
 #: src/components/trading/CreateOffer.jsx:213
 #: src/components/trading/TradesTable.tsx:16
@@ -116,20 +116,20 @@ msgstr "จำนวน ({cc_unit})"
 
 #: src/components/wallet/create/createRLAdmin.jsx:259
 msgid "Amount For Initial Coin"
-msgstr ""
+msgstr "จำนวนของเหรียญเริ่มต้น"
 
 #: src/components/plot/PlotAction.tsx:30
 #: src/components/plot/queue/PlotQueueActions.tsx:31
 msgid "Are you sure you want to delete the plot? The plot cannot be recovered."
-msgstr ""
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการลบพล็อตนี้? พล็อตที่ถูกลบจะไม่สามารถกู้คืนได้"
 
 #: src/components/fullNode/FullNodeCloseConnection.tsx:23
 msgid "Are you sure you want to disconnect?"
-msgstr ""
+msgstr "คุณแน่ใจที่จะตัดการเชื่อมต่อใช่หรือไม่?"
 
 #: src/electron/main.tsx:164
 msgid "Are you sure you want to quit? GUI Plotting and farming will stop."
-msgstr ""
+msgstr "คุณแน่ใจที่จะปิดโปรแกรมหรือไม่? การพล็อตและการฟาร์มแบบ GUI จะหยุดการทำงาน"
 
 #: src/components/plot/add/PlotAddChooseSize.tsx:31
 #~ msgid "Are you sure you want to use k={plotSize}"
@@ -137,7 +137,7 @@ msgstr ""
 
 #: src/components/plot/add/PlotAddChooseSize.tsx:31
 msgid "Are you sure you want to use k={plotSize}?"
-msgstr ""
+msgstr "คุณแน่ใจที่จะใช้ k={plotSize} หรือไม่?"
 
 #: src/components/selectKey/SelectKey.tsx:39
 #: src/components/selectKey/SelectKey.tsx:53
@@ -146,7 +146,7 @@ msgstr "กลับ"
 
 #: src/components/backup/BackupCreate.tsx:61
 msgid "Backup file is used to restore smart wallets."
-msgstr ""
+msgstr "ไฟล์การสำรองข้อมูลจะถูกใช้สำหรับการกู้คืนสมาร์ตวอลเล็ต"
 
 #: src/components/wallet/coloured/WalletColoured.tsx:286
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:562
@@ -214,11 +214,11 @@ msgstr "บล็อก"
 #: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:63
 #: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:81
 msgid "Browse"
-msgstr "เปิดหา"
+msgstr "เรียกดู"
 
 #: src/components/farm/FarmLastAttemptedProof.tsx:50
 msgid "But you are currently farming <0/>"
-msgstr ""
+msgstr "แต่คุณกำลังฟาร์มอยู่ <0/>"
 
 #: src/components/trading/CreateOffer.jsx:181
 #: src/components/trading/TradesTable.tsx:31
@@ -228,7 +228,7 @@ msgstr "ซื้อ"
 
 #: src/components/wallet/Wallets.tsx:36
 msgid "CC Wallet"
-msgstr ""
+msgstr "CC วอลเล็ต"
 
 #: src/components/wallet/create/WalletCreate.jsx:182
 #~ msgid "CCListItems.title"
@@ -249,11 +249,11 @@ msgstr "ยกเลิก"
 
 #: src/components/trading/TradingOverview.jsx:399
 msgid "Cancel and Spend"
-msgstr ""
+msgstr "ยกเลิกและจ่าย"
 
 #: src/components/plot/PlotsNotFound.tsx:26
 msgid "Caution, deleting these plots will delete them forever. Check that the storage devices are properly connected."
-msgstr ""
+msgstr "ระวัง การลบพล็อตเหล่านี้ไม่สามารถกู้คืนได้ โปรดตรวจสอบอุปกรณ์จัดเก็บข้อมูลว่าเชื่อมต่อเรียบร้อยดีหรือยัง"
 
 #: src/components/farm/FarmLastAttemptedProof.tsx:13
 msgid "Challenge"
@@ -277,7 +277,7 @@ msgstr "Chia Blockchain Wiki"
 
 #: src/components/wallet/Wallets.tsx:32
 msgid "Chia Wallet"
-msgstr ""
+msgstr "Chia วอลเล็ต"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:13
 msgid "Choose Number of Plots"
@@ -353,7 +353,7 @@ msgstr "เชื่อมต่อกับลูกข่ายอื่น"
 #: src/components/core/components/FormatConnectionStatus/FormatConnectionStatus.tsx:47
 #: src/components/fullNode/FullNode.jsx:143
 msgid "Connected"
-msgstr ""
+msgstr "เชื่อมต่อแล้ว"
 
 #: src/components/app/AppRouter.tsx:23
 msgid "Connecting to wallet"
@@ -382,7 +382,7 @@ msgstr ""
 
 #: src/components/core/components/CopyToClipboard/CopyToClipboard.tsx:22
 msgid "Copied"
-msgstr ""
+msgstr "คัดลอกแล้ว"
 
 #: src/components/wallet/coloured/WalletColoured.tsx:461
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:314
@@ -394,7 +394,7 @@ msgstr "คัดลอก"
 
 #: src/components/core/components/CopyToClipboard/CopyToClipboard.tsx:23
 msgid "Copy to Clipboard"
-msgstr ""
+msgstr "คัดลอกไปยังคลิปบอร์ด"
 
 #: src/components/backup/BackupCreate.tsx:70
 #: src/components/wallet/create/createExistingColouredCoin.jsx:141
@@ -410,11 +410,11 @@ msgstr ""
 
 #: src/components/trading/TradeManager.tsx:22
 msgid "Create Offer"
-msgstr ""
+msgstr "สร้างข้อเสนอ"
 
 #: src/components/plot/add/PlotAdd.tsx:67
 msgid "Create Plot"
-msgstr ""
+msgstr "สร้างพล็อต"
 
 #: src/components/wallet/create/createRLAdmin.jsx:198
 msgid "Create Rate Limited Admin Wallet"
@@ -430,7 +430,7 @@ msgstr ""
 
 #: src/components/trading/CreateOffer.jsx:146
 msgid "Create Trade Offer"
-msgstr ""
+msgstr "สร้างข้อเสนอการแลกเปลี่ยน"
 
 #: src/components/wallet/coloured/WalletColoured.tsx:396
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:729
@@ -440,7 +440,7 @@ msgstr "สร้างธุรกรรมใหม่"
 
 #: src/components/backup/BackupCreate.tsx:58
 msgid "Create a Backup"
-msgstr ""
+msgstr "สร้างการสำรองข้อมูล"
 
 #: src/components/selectKey/SelectKey.tsx:109
 msgid "Create a new private key"
@@ -484,7 +484,7 @@ msgstr "สถานะการแลกเปลี่ยนปัจจุบ
 
 #: src/components/selectKey/SelectKey.tsx:98
 msgid "DANGER: permanently delete private key"
-msgstr "อันตราย: ลบกุญแจส่วนตัวถาวร"
+msgstr "อันตราย: ลบคีย์ส่วนตัวถาวร"
 
 #: src/components/wallet/Wallets.tsx:50
 msgid "DID Wallet"
@@ -502,7 +502,7 @@ msgstr "วันที่"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:57
 msgid "Delay"
-msgstr "ดีเลย์"
+msgstr "หน่วงเวลา"
 
 #: src/components/plot/PlotAction.tsx:29
 #: src/components/plot/PlotAction.tsx:48
@@ -529,11 +529,11 @@ msgstr "ลบคีย์"
 
 #: src/components/selectKey/SelectKey.tsx:54
 msgid "Deleting all keys will permanently remove the keys from your computer, make sure you have backups. Are you sure you want to continue?"
-msgstr ""
+msgstr "การลบคีย์ทั้งหมดจะลบคีย์ออกจากคอมพิวเตอร์ของคุณโดยถาวร โปรดตรวจสอบให้แน่ใจว่าคุณได้สำรองข้อมูลไว้ คุณแน่ใจที่จะดำเนินการต่อหรือไม่?"
 
 #: src/components/selectKey/SelectKey.tsx:40
 msgid "Deleting the key will permanently remove the key from your computer, make sure you have backups. Are you sure you want to continue?"
-msgstr ""
+msgstr "การลบคีย์จะลบคีย์ออกจากคอมพิวเตอร์ของคุณโดยถาวร โปรดตรวจสอบให้แน่ใจว่าคุณได้สำรองข้อมูลไว้ คุณแน่ใจที่จะดำเนินการต่อหรือไม่?"
 
 #: src/electron/main.tsx:260
 msgid "Developer"
@@ -571,11 +571,11 @@ msgstr ""
 #: src/components/farm/overview/FarmOverviewHero.tsx:41
 #: src/components/plot/overview/PlotOverviewHero.tsx:35
 msgid "Do you have existing plots on this machine? <0>Add Plot Directory</0>"
-msgstr ""
+msgstr "คุณมีพล็อตบนเครื่องนี้อยู่แล้วหรือไม่? <0>เพิ่มไดเรกทอรีของพล็อต</0>"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:30
 msgid "Does your machine support parallel plotting?"
-msgstr ""
+msgstr "เครื่องของคุณรองรับการพล็อตแบบขนานกันหรือไม่?"
 
 #: src/components/trading/ViewOffer.jsx:41
 #: src/components/wallet/create/recoverDIDWallet.js:294
@@ -584,7 +584,7 @@ msgstr ""
 
 #: src/components/backup/BackupRestore.tsx:114
 msgid "Drag and drop your backup file"
-msgstr ""
+msgstr "ลากและวางไฟล์สำรองข้อมูล"
 
 #: src/electron/main.tsx:219
 msgid "Edit"
@@ -611,15 +611,15 @@ msgstr ""
 #: src/components/farm/card/FarmCardExpectedTimeToWin.tsx:32
 #: src/components/farm/card/FarmCardExpectedTimeToWin.tsx:34
 msgid "Estimated Time to Win"
-msgstr ""
+msgstr "เวลาที่ชนะโดยประมาณ"
 
 #: src/components/fullNode/FullNode.jsx:197
 msgid "Estimated network space"
-msgstr ""
+msgstr "พื้นที่ในเครือข่ายโดยประมาณ"
 
 #: src/components/fullNode/FullNode.jsx:200
 msgid "Estimated sum of all the plotted disk space of all farmers in the network"
-msgstr ""
+msgstr "ประมาณค่าจากผลรวมขนาดขนาดของพล็อตทั้งหมดจากฟาร์มเมอร์ทั้งหมดในเครือข่าย"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:124
 msgid "Exclude final directory"
@@ -951,7 +951,7 @@ msgstr "หน่วยความจำที่มากขึ้นสาม
 
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:429
 msgid "My Pubkey"
-msgstr ""
+msgstr "คีย์สาธารณะของฉัน"
 
 #: src/components/fullNode/FullNode.jsx:160
 msgid "Network Name"
@@ -1066,7 +1066,7 @@ msgstr "สร้างข้อเสนอแล้ว"
 
 #: src/components/wallet/WalletHistory.tsx:19
 msgid "Outgoing"
-msgstr ""
+msgstr "เงินออก"
 
 #: src/components/fullNode/FullNode.jsx:166
 msgid "Peak Height"
@@ -1082,7 +1082,7 @@ msgstr ""
 
 #: src/components/wallet/WalletHistory.tsx:42
 msgid "Pending"
-msgstr ""
+msgstr "อยู่ระหว่างดำเนินการ"
 
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:604
 #: src/components/wallet/standard/WalletStandard.tsx:223
@@ -1135,7 +1135,7 @@ msgstr ""
 
 #: src/components/wallet/create/createRLAdmin.jsx:129
 msgid "Please enter a valid pubkey"
-msgstr ""
+msgstr "กรุณาใส่คีย์สาธารณะให้ถูกต้อง"
 
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:661
 #: src/components/wallet/standard/WalletStandard.tsx:268
@@ -1144,11 +1144,11 @@ msgstr ""
 
 #: src/components/trading/CreateOffer.jsx:75
 msgid "Please select amount"
-msgstr ""
+msgstr "กรุณาเลือกจำนวนที่ต้องการ"
 
 #: src/components/trading/CreateOffer.jsx:85
 msgid "Please select buy or sell"
-msgstr ""
+msgstr "กรุณาเลือกฝ่ายซื้อหรือขาย"
 
 #: src/components/trading/CreateOffer.jsx:63
 msgid "Please select coin colour"
@@ -1223,11 +1223,11 @@ msgstr ""
 
 #: src/components/plot/queue/PlotQueueIndicator.tsx:21
 msgid "Plotting"
-msgstr ""
+msgstr "กำลังพล็อต"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:35
 msgid "Plotting in parallel can save time. Otherwise, add plot(s) to the queue."
-msgstr ""
+msgstr "การพล็อตแบบขนานกันสามารถประหยัดเวลาได้ หากไม่รองรับ ให้เพิ่มพล็อตลงคิวแทน"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:114
 msgid "Plotting with bitfield enabled has about 30% less overall writes and is now almost always faster. You may see reduced memory requirements with bitfield plotting disabled. If your CPU design is from before 2010 you may have to disable bitfield plotting."
@@ -1282,7 +1282,7 @@ msgstr ""
 
 #: src/components/selectKey/SelectKey.tsx:87
 msgid "Private key with public fingerprint {fingerprint}"
-msgstr ""
+msgstr "คีย์ส่วนตัวพร้อมลายนิ้วมือสาธารณะ {fingerprint}"
 
 #: src/middleware/middleware_api.jsx:249
 msgid "Private key {0}"
@@ -1302,7 +1302,7 @@ msgstr ""
 
 #: src/components/wallet/create/createRLAdmin.jsx:323
 msgid "Pubkey"
-msgstr ""
+msgstr "คีย์สาธารณะ"
 
 #: src/middleware/middleware_api.jsx:267
 msgid "Public key:"
@@ -1310,15 +1310,15 @@ msgstr "คีย์สาธารณะ:"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:103
 msgid "Queue Name"
-msgstr ""
+msgstr "ชื่อคิว"
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:43
 msgid "Queue name"
-msgstr ""
+msgstr "ชื่อคิว"
 
 #: src/components/plot/queue/PlotQueueIndicator.tsx:22
 msgid "Queued"
-msgstr ""
+msgstr "เข้าคิว"
 
 #: src/electron-starter.js:80
 #~ msgid "Quit"
@@ -1368,11 +1368,11 @@ msgstr ""
 
 #: src/electron/main.tsx:324
 msgid "Release Notes"
-msgstr ""
+msgstr "บันทึกประจำรุ่น"
 
 #: src/components/plot/queue/PlotQueueIndicator.tsx:23
 msgid "Removing"
-msgstr ""
+msgstr "กำลังลบ"
 
 #: src/components/wallet/coloured/WalletColoured.tsx:206
 msgid "Rename"
@@ -1380,7 +1380,7 @@ msgstr "เปลี่ยนชื่อ"
 
 #: src/electron/main.tsx:339
 msgid "Report an Issue..."
-msgstr ""
+msgstr "รายงานปัญหา..."
 
 #: src/components/backup/BackupRestore.tsx:107
 msgid "Restore Metadata for Coloured Coins and other Smart Wallets from Backup"
@@ -1397,7 +1397,7 @@ msgstr ""
 
 #: src/components/backup/BackupRestore.tsx:122
 msgid "Safe To Skip"
-msgstr ""
+msgstr "ข้ามได้อย่างปลอดภัย"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:105
 #: src/components/trading/CreateOffer.jsx:160
@@ -1430,7 +1430,7 @@ msgstr "เลือกไดเรกทอรีของไฟล์พล็
 
 #: src/components/plot/add/PlotAddSelectFinalDirectory.tsx:29
 msgid "Select Final Directory"
-msgstr "เลือกไดเรกทอรีของไฟล์พล็อตสำเร็จ"
+msgstr "เลือกไดเรกทอรีสุดท้าย"
 
 #: src/components/selectKey/SelectKey.tsx:71
 msgid "Select Key"
@@ -1438,15 +1438,15 @@ msgstr "เลือกคีย์"
 
 #: src/components/trading/ViewOffer.jsx:38
 msgid "Select Offer"
-msgstr ""
+msgstr "เลือกข้อเสนอ"
 
 #: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:39
 msgid "Select Temporary Directory"
-msgstr "เลือกไดเรกทอรีของไฟล์พล็อตชั่วคราว"
+msgstr "เลือกไดเรกทอรีชั่วคราว"
 
 #: src/components/wallet/create/WalletCreate.jsx:108
 msgid "Select Wallet Type"
-msgstr ""
+msgstr "เลือกประเภทวอลเล็ต"
 
 #: src/components/plot/add/PlotAddSelectFinalDirectory.tsx:31
 msgid "Select the final destination for the folder where you would like the plot to be stored. We recommend you use a large slow hard drive (like external HDD)."
@@ -1676,7 +1676,7 @@ msgstr ""
 
 #: src/components/plot/PlotsFailed.tsx:26
 msgid "These plots are invalid, you might want to delete them."
-msgstr ""
+msgstr "พล็อตเหล่านี้ไม่ถูกต้อง คุณอาจต้องการที่จะลบมัน"
 
 #: src/components/plot/PlotAddDirectoryDialog.tsx:44
 msgid "This allows you to add a directory that has plots in it. If you have not created any plots, go to the plotting screen."
@@ -1768,11 +1768,11 @@ msgstr "ยอดคงเหลือทั้งหมด"
 
 #: src/components/fullNode/FullNode.jsx:191
 msgid "Total Iterations"
-msgstr ""
+msgstr "จำนวนทำซ้ำทั้งหมด"
 
 #: src/components/farm/card/FarmCardTotalNetworkSpace.tsx:8
 msgid "Total Network Space"
-msgstr ""
+msgstr "พื้นที่ในเครือข่ายทั้งหมด"
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:91
 msgid "Total Plot Size:"
@@ -1828,11 +1828,11 @@ msgstr ""
 
 #: src/components/wallet/WalletHistory.tsx:22
 msgid "Type"
-msgstr ""
+msgstr "ประเภท"
 
 #: src/components/fullNode/FullNode.jsx:92
 msgid "Unfinished"
-msgstr ""
+msgstr "ยังไม่เสร็จ"
 
 #: src/components/trading/TradingOverview.jsx:177
 msgid "Unique identifier"
@@ -1840,12 +1840,12 @@ msgstr ""
 
 #: src/components/core/components/LocaleToggle/LocaleToggle.tsx:32
 msgid "Unknown"
-msgstr ""
+msgstr "ไม่ทราบ"
 
 #: src/components/wallet/create/createRLAdmin.jsx:307
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:300
 msgid "User Pubkey"
-msgstr ""
+msgstr "คีย์สาธารณะของผู้ใช้"
 
 #: src/components/fullNode/FullNode.jsx:185
 msgid "VDF Sub Slot Iterations"
@@ -1853,7 +1853,7 @@ msgstr ""
 
 #: src/electron/main.tsx:251
 msgid "View"
-msgstr ""
+msgstr "แสดง"
 
 #: src/components/plot/queue/PlotQueueActions.tsx:53
 #: src/components/plot/queue/PlotQueueLogDialog.tsx:26
@@ -1931,7 +1931,7 @@ msgstr ""
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:53
 msgid "Want to have a delay before the next plot starts?"
-msgstr ""
+msgstr "ต้องการหน่วงเวลาก่อนที่พล็อตต่อไปจะเริ่มสร้างหรือไม่?"
 
 #: src/components/block/Block.jsx:198
 msgid "Weight"
@@ -1947,7 +1947,7 @@ msgstr "ยินดีต้อนรับสู่ Chia กรุณาเข
 
 #: src/components/wallet/WalletAdd.tsx:35
 msgid "Welcome! The following words are used for your wallet backup. Without them, you will lose access to your wallet, keep them safe! Write down each word along with the order number next to them. (Order is important)"
-msgstr ""
+msgstr "ยินดีต้อนรับ! กลุ่มคำต่อไปนี้จะถูกนำไปใช้สำหรับการสำรองข้อมูลวอลเล็ตของคุณ ถ้าไม่มีมัน คุณจะสูญเสียการเข้าถึงวอลเล็ตของคุณ โปรดเก็บมันอย่างปลอดภัย! กรุณาจดบันทึกทุก ๆ คำพร้อมกับลำดับตัวเลขด้านข้างอย่างถูกต้อง (ลำดับเป็นสิ่งสำคัญนะ)"
 
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:324
 msgid "When you receive the setup info packet from your admin, enter it below to complete your Rate Limited Wallet setup:"
@@ -1955,11 +1955,11 @@ msgstr ""
 
 #: src/electron/main.tsx:294
 msgid "Window"
-msgstr ""
+msgstr "หน้าต่าง"
 
 #: src/components/farm/card/FarmCardBlockRewards.tsx:18
 msgid "Without fees"
-msgstr ""
+msgstr "โดยไม่มีค่าธรรมเนียม"
 
 #: src/components/plot/add/PlotAddChooseSize.tsx:30
 #: src/components/trading/TradingOverview.jsx:212
@@ -1973,7 +1973,7 @@ msgstr "ใช่"
 
 #: src/components/plot/add/PlotAddChooseSize.tsx:56
 msgid "You do not need to be synched or connected to plot. Temporary files are created during the plotting process which exceed the size of the final plot files. Make sure you have enough space. <0>Learn more</0>"
-msgstr ""
+msgstr "คุณไม่จำเป็นที่ต้องซิงค์หรือเชื่อมต่อเพื่อที่จะพล็อต ไฟล์ชั่วคราวที่ถูกสร้างขึ้นมาขณะดำเนินการพล็อตซึ่งจะมีขนาดใหญ่กว่าไฟล์พล็อตสุดท้ายที่เสร็จแล้ว กรุณาตรวจสอบให้แน่ใจว่ามีพื้นที่เพียงพอ <0>Learn more</0>"
 
 #: src/components/farm/card/FarmCardExpectedTimeToWin.tsx:34
 #~ msgid "You have {0}% of the space on the network, so farming a block will take {expectedTimeToWin} in expectation."
@@ -1997,11 +1997,11 @@ msgstr ""
 
 #: src/components/farm/overview/FarmOverview.tsx:24
 msgid "Your Farm Overview"
-msgstr ""
+msgstr "ภาพรวมของฟาร์มคุณ"
 
 #: src/components/farm/FarmFullNodeConnections.tsx:56
 msgid "Your Full Node Connection"
-msgstr ""
+msgstr "การเชื่อมต่อฟูลโหนดของคุณ"
 
 #: src/components/farm/FarmYourHarvesterNetwork.tsx:56
 msgid "Your Harvester Network"
@@ -2062,5 +2062,5 @@ msgstr ""
 
 #: src/components/farm/card/FarmCardUserFees.tsx:17
 msgid "{currencyCode} User Transaction Fees"
-msgstr ""
+msgstr "{currencyCode} ค่าธรรมเนียมการโอนของผู้ใช้"
 
