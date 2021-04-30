@@ -8,7 +8,7 @@ msgstr ""
 "Language: de_DE\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-04-30 16:04\n"
+"PO-Revision-Date: 2021-04-30 23:27\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -288,7 +288,7 @@ msgid "Choose Plot Size"
 msgstr "Wähle Plot Größe"
 
 #: src/components/plot/PlotAddDirectoryDialog.tsx:76
-#: src/components/plot/queue/PlotQueueLogDialog.tsx:48
+#: src/components/plot/queue/PlotQueueLogDialog.tsx:56
 msgid "Close"
 msgstr "Schließen"
 
@@ -881,7 +881,7 @@ msgstr "Letzte gefarmte Höhe"
 msgid "Latest Block Challenges"
 msgstr "Neueste Block Herausforderungen"
 
-#: src/components/plot/queue/PlotQueueLogDialog.tsx:15
+#: src/components/plot/queue/PlotQueueLogDialog.tsx:22
 msgid "Loading..."
 msgstr "Lädt..."
 
@@ -1861,7 +1861,7 @@ msgid "View"
 msgstr "Ansicht"
 
 #: src/components/plot/queue/PlotQueueActions.tsx:53
-#: src/components/plot/queue/PlotQueueLogDialog.tsx:26
+#: src/components/plot/queue/PlotQueueLogDialog.tsx:34
 msgid "View Log"
 msgstr "Log anzeigen"
 
