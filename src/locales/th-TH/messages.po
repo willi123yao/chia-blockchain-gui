@@ -8,7 +8,7 @@ msgstr ""
 "Language: th_TH\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-04-30 11:30\n"
+"PO-Revision-Date: 2021-04-30 17:30\n"
 "Last-Translator: \n"
 "Language-Team: Thai\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -357,11 +357,11 @@ msgstr "เชื่อมต่อแล้ว"
 
 #: src/components/app/AppRouter.tsx:23
 msgid "Connecting to wallet"
-msgstr ""
+msgstr "กำลังเชื่อมต่อวอลเล็ต"
 
 #: src/components/fullNode/FullNode.jsx:141
 msgid "Connection Status"
-msgstr ""
+msgstr "สถานะการเชื่อมต่อ"
 
 #: src/components/farm/FarmFullNodeConnections.tsx:66
 #: src/components/farm/FarmYourHarvesterNetwork.tsx:65
@@ -370,11 +370,11 @@ msgstr "สถานะการเชื่อมต่อ:"
 
 #: src/components/fullNode/FullNodeConnections.tsx:50
 msgid "Connection type"
-msgstr ""
+msgstr "ประเภทการเชื่อมต่อ"
 
 #: src/components/fullNode/FullNodeConnections.tsx:73
 msgid "Connections"
-msgstr ""
+msgstr "การเชื่อมต่อ"
 
 #: src/electron/main.tsx:330
 msgid "Contribute on GitHub"
@@ -1493,7 +1493,7 @@ msgstr "แสดงตัวเลือกขั้นสูง"
 #: src/components/trading/CreateOffer.jsx:174
 #: src/components/trading/TradesTable.tsx:13
 msgid "Side"
-msgstr "ฝ่าย"
+msgstr "ฝั่ง"
 
 #: src/components/selectKey/SelectKey.tsx:74
 msgid "Sign In"
@@ -1742,7 +1742,7 @@ msgstr ""
 
 #: src/components/fullNode/FullNode.jsx:86
 msgid "Time Created"
-msgstr ""
+msgstr "เวลาที่สร้าง"
 
 #: src/components/trading/TradingOverview.jsx:192
 #~ msgid "Time this trade was created at this time"
@@ -1796,7 +1796,7 @@ msgstr ""
 
 #: src/components/trading/TradingOverview.jsx:360
 msgid "Trade Details"
-msgstr ""
+msgstr "รายละเอียดการแลกเปลี่ยน"
 
 #: src/components/trading/TradingOverview.jsx:125
 msgid "Trade ID"
@@ -1808,7 +1808,7 @@ msgstr "เทรดไอดี:"
 
 #: src/components/trading/TradeManager.tsx:17
 msgid "Trade Overview"
-msgstr ""
+msgstr "ภาพรวมการแลกเปลี่ยน"
 
 #: src/components/trading/TradingOverview.jsx:153
 msgid "Trades will show up here"
