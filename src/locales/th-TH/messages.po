@@ -8,7 +8,7 @@ msgstr ""
 "Language: th_TH\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-04-29 23:33\n"
+"PO-Revision-Date: 2021-04-30 11:30\n"
 "Last-Translator: \n"
 "Language-Team: Thai\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1070,7 +1070,7 @@ msgstr "เงินออก"
 
 #: src/components/fullNode/FullNode.jsx:166
 msgid "Peak Height"
-msgstr ""
+msgstr "ความสูงจุดยอด"
 
 #: src/components/fullNode/FullNode.jsx:204
 #~ msgid "Peak Sub-block Height"
@@ -1078,7 +1078,7 @@ msgstr ""
 
 #: src/components/fullNode/FullNode.jsx:171
 msgid "Peak Time"
-msgstr ""
+msgstr "เวลาจุดยอด"
 
 #: src/components/wallet/WalletHistory.tsx:42
 msgid "Pending"
@@ -1545,7 +1545,7 @@ msgstr ""
 
 #: src/components/fullNode/FullNode.jsx:94
 msgid "State"
-msgstr ""
+msgstr "สถานะ"
 
 #: src/components/fullNode/FullNode.jsx:104
 #: src/components/fullNode/FullNode.jsx:121
@@ -1557,11 +1557,11 @@ msgstr ""
 #: src/components/wallet/WalletStatusCard.tsx:11
 #: src/components/wallet/Wallets.tsx:95
 msgid "Status"
-msgstr ""
+msgstr "สถานะ"
 
 #: src/components/trading/TradingOverview.jsx:181
 msgid "Status:"
-msgstr ""
+msgstr "สถานะ:"
 
 #: src/components/wallet/Wallets.tsx:119
 #~ msgid "StatusCard.connections"
@@ -1593,11 +1593,11 @@ msgstr ""
 
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:357
 msgid "Submit"
-msgstr ""
+msgstr "ส่ง"
 
 #: src/components/fullNode/FullNode.jsx:130
 msgid "Synced"
-msgstr ""
+msgstr "ซิงค์แล้ว"
 
 #: src/components/farm/FarmerStatus.tsx:28
 #: src/components/farm/card/FarmCardStatus.tsx:12
@@ -1607,7 +1607,7 @@ msgstr "กำลังซิงค์"
 
 #: src/components/fullNode/FullNode.jsx:106
 msgid "Syncing {progress}/{tip}"
-msgstr ""
+msgstr "กำลังซิงค์ {progress}/{tip}"
 
 #: src/components/farm/card/FarmCardBlockRewards.tsx:15
 #~ msgid "TXCH Block Rewards"
@@ -1639,7 +1639,7 @@ msgstr "ตำแหน่งโฟลเดอร์ของไฟล์พล
 
 #: src/components/app/AppTimeBomb.tsx:28
 msgid "The application will stop working at block height 193536."
-msgstr ""
+msgstr "แอปพลิเคชันจะหยุดการทำงานที่ความสูงบล็อก 193536"
 
 #: src/components/farm/FarmFullNodeConnections.tsx:58
 msgid "The full node that your farmer is connected to is below. <0>Learn more</0>"
@@ -1648,7 +1648,7 @@ msgstr ""
 #: src/components/plot/add/PlotAddChooseSize.tsx:30
 #: src/components/plot/add/PlotAddChooseSize.tsx:74
 msgid "The minimum required size for mainnet is k=32"
-msgstr ""
+msgstr "ขนาดขั้นต่ำที่ต้องการสำหรับ mainnet คือ k=32"
 
 #: src/components/fullNode/FullNode.jsx:124
 msgid "The node is not synced"
