@@ -8,7 +8,7 @@ msgstr ""
 "Language: vi_VN\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-05-01 05:45\n"
+"PO-Revision-Date: 2021-05-02 11:37\n"
 "Last-Translator: \n"
 "Language-Team: Vietnamese\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1372,7 +1372,7 @@ msgstr "Ghi chú phát hành"
 
 #: src/components/plot/queue/PlotQueueIndicator.tsx:23
 msgid "Removing"
-msgstr ""
+msgstr "Xóa bỏ"
 
 #: src/components/wallet/coloured/WalletColoured.tsx:206
 msgid "Rename"
