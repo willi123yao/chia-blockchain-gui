@@ -8,7 +8,7 @@ msgstr ""
 "Language: sl_SI\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-05-01 05:46\n"
+"PO-Revision-Date: 2021-05-02 17:40\n"
 "Last-Translator: \n"
 "Language-Team: Slovenian\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n%100==4 ? 3 : 0);\n"
@@ -484,7 +484,7 @@ msgstr ""
 
 #: src/components/selectKey/SelectKey.tsx:98
 msgid "DANGER: permanently delete private key"
-msgstr ""
+msgstr "POZOR: trajno izbriši zasebni ključ"
 
 #: src/components/wallet/Wallets.tsx:50
 msgid "DID Wallet"
@@ -611,11 +611,11 @@ msgstr ""
 #: src/components/farm/card/FarmCardExpectedTimeToWin.tsx:32
 #: src/components/farm/card/FarmCardExpectedTimeToWin.tsx:34
 msgid "Estimated Time to Win"
-msgstr ""
+msgstr "Predviden Čas do Uspeha"
 
 #: src/components/fullNode/FullNode.jsx:197
 msgid "Estimated network space"
-msgstr ""
+msgstr "Ocenjena velikost omrežja"
 
 #: src/components/fullNode/FullNode.jsx:200
 msgid "Estimated sum of all the plotted disk space of all farmers in the network"
@@ -697,7 +697,7 @@ msgstr "Provizija"
 
 #: src/components/wallet/coloured/WalletColoured.tsx:422
 msgid "Fee ({currencyCode})"
-msgstr ""
+msgstr "Provizija ({currencyCode})"
 
 #: src/components/block/Block.jsx:294
 msgid "Fees Amount"
