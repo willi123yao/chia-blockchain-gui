@@ -8,7 +8,7 @@ msgstr ""
 "Language: vi_VN\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-05-02 11:37\n"
+"PO-Revision-Date: 2021-05-02 23:47\n"
 "Last-Translator: \n"
 "Language-Team: Vietnamese\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -188,7 +188,7 @@ msgstr "Khối VDF Lặp Lại"
 
 #: src/components/block/Block.jsx:311
 msgid "Block at height {0} in the Chia blockchain"
-msgstr "Khối thứ {0} trong Chia blockchain"
+msgstr "Khối tại height {0} trong Chia blockchain"
 
 #: src/components/fullNode/FullNode.jsx:331
 #~ msgid "Block hash"
@@ -265,7 +265,7 @@ msgstr "Challenge Hash"
 
 #: src/electron/main.tsx:345
 msgid "Chat on KeyBase"
-msgstr "Chat trên KeyBase"
+msgstr "Chat trên Keybase"
 
 #: src/electron/main.tsx:362
 msgid "Chia"
@@ -281,7 +281,7 @@ msgstr "Ví Chia"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:13
 msgid "Choose Number of Plots"
-msgstr "Chọn Số Lượng Plot"
+msgstr "Chọn số lượng Plot"
 
 #: src/components/plot/add/PlotAddChooseSize.tsx:54
 msgid "Choose Plot Size"
@@ -294,7 +294,7 @@ msgstr "Đóng"
 
 #: src/components/app/AppRouter.tsx:18
 msgid "Closing down node and server"
-msgstr "Tắt node và máy chủ"
+msgstr "Đóng node và máy chủ"
 
 #: src/components/trading/TradingOverview.jsx:376
 msgid "Coins:"
@@ -339,7 +339,7 @@ msgstr "Được xác nhận ở block:"
 
 #: src/components/wallet/WalletHistory.tsx:40
 msgid "Confirmed at height {0}"
-msgstr "Được xác nhận ở chiều cao {0}"
+msgstr "Được xác nhận ở height {0}"
 
 #: src/components/fullNode/FullNodeAddConnection.tsx:70
 msgid "Connect"
@@ -378,7 +378,7 @@ msgstr "Các kết nối"
 
 #: src/electron/main.tsx:330
 msgid "Contribute on GitHub"
-msgstr "Đóng Góptrên GitHub"
+msgstr "Đóng góp trên GitHub"
 
 #: src/components/core/components/CopyToClipboard/CopyToClipboard.tsx:22
 msgid "Copied"
@@ -394,7 +394,7 @@ msgstr "Sao chép"
 
 #: src/components/core/components/CopyToClipboard/CopyToClipboard.tsx:23
 msgid "Copy to Clipboard"
-msgstr "Sao chép vào Clipboard"
+msgstr "Sao chép vào khay nhớ"
 
 #: src/components/backup/BackupCreate.tsx:70
 #: src/components/wallet/create/createExistingColouredCoin.jsx:141
@@ -476,7 +476,7 @@ msgstr "Ngày tạo:"
 
 #: src/components/trading/TradingOverview.jsx:214
 msgid "Created by us:"
-msgstr "Tạo bởi chúng tôi:"
+msgstr "Xây dựng bởi chúng tôi:"
 
 #: src/components/trading/TradingOverview.jsx:184
 msgid "Current trade status"
@@ -871,7 +871,7 @@ msgstr "Bằng chứng cuối cùng"
 
 #: src/components/farm/card/FarmCardLastHeightFarmed.tsx:8
 msgid "Last Height Farmed"
-msgstr "Chiều cao khối được farm gần nhất."
+msgstr "Height được farm gần nhất."
 
 #: src/components/farm/FarmLatestBlockChallenges.tsx:23
 msgid "Latest Block Challenges"
@@ -1070,7 +1070,7 @@ msgstr "Đầu ra"
 
 #: src/components/fullNode/FullNode.jsx:166
 msgid "Peak Height"
-msgstr "Chiều cao chóp"
+msgstr "Peak Height"
 
 #: src/components/fullNode/FullNode.jsx:204
 #~ msgid "Peak Sub-block Height"
@@ -1639,7 +1639,7 @@ msgstr "Vị trí thư mục tạm thời thứ hai"
 
 #: src/components/app/AppTimeBomb.tsx:28
 msgid "The application will stop working at block height 193536."
-msgstr "Ứng dụng sẽ ngưng hoạt động tại độ cao khối 193536."
+msgstr "Ứng dụng sẽ ngưng hoạt động tại height 193536."
 
 #: src/components/farm/FarmFullNodeConnections.tsx:58
 msgid "The full node that your farmer is connected to is below. <0>Learn more</0>"
@@ -2023,7 +2023,7 @@ msgstr "các kết nối:"
 #: src/components/wallet/WalletStatusCard.tsx:24
 #: src/components/wallet/Wallets.tsx:115
 msgid "height:"
-msgstr "chiều cao:"
+msgstr "height:"
 
 #: src/components/wallet/Wallets.tsx:109
 msgid "not synced"
