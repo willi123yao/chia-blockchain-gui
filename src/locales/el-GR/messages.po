@@ -8,7 +8,7 @@ msgstr ""
 "Language: el_GR\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-05-01 05:46\n"
+"PO-Revision-Date: 2021-05-02 05:38\n"
 "Last-Translator: \n"
 "Language-Team: Greek\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -156,7 +156,7 @@ msgstr "Υπόλοιπο"
 
 #: src/components/block/Block.jsx:290
 msgid "Base Farmer Reward Amount"
-msgstr "Μέσο Ποσό Ανταμοιβής Farmer"
+msgstr "Βασικό Ποσό Ανταμοιβής Αγρότη"
 
 #: src/components/farm/FarmLatestBlockChallenges.tsx:25
 #: src/components/farm/FarmLatestBlockChallenges.tsx:31
@@ -646,28 +646,28 @@ msgstr "Farmer Puzzle Hash"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:95
 msgid "Farmer Reward Address"
-msgstr "Διεύθυνση Ανταμοιβής Farmer"
+msgstr "Διεύθυνση Ανταμοιβής Αγρότη"
 
 #: src/components/farm/card/FarmCardStatus.tsx:21
 #: src/components/plot/PlotStatus.tsx:28
 msgid "Farmer is not connected"
-msgstr "Ο Farmer δεν είναι συνδεδεμένος"
+msgstr "Ο αγρότης δεν είναι συνδεδεμένος"
 
 #: src/components/farm/card/FarmCardStatus.tsx:26
 #: src/components/plot/PlotStatus.tsx:29
 msgid "Farmer is not running"
-msgstr "Farmer is not running"
+msgstr "Ο αγρότης δεν εκτελείται"
 
 #: src/components/farm/overview/FarmOverviewHero.tsx:27
 msgid "Farmers earn block rewards and transaction fees by committing spare space to the network to help secure transactions. This is where your farm will be once you add a plot. <0>Learn more</0>"
-msgstr "Οι Farmers κερδίζουν ανταμοιβές και τέλη συναλλαγών δεσμεύοντας ελεύθερο χώρο στο δίκτυο για να βοηθήσουν στην ασφάλεια των συναλλαγών. Εδώ θα είναι το αγρόκτημά σας μόλις προσθέσετε ένα οικόπεδο. <0>Μάθετε περισσότερα</0>"
+msgstr "Οι αγρότες κερδίζουν ανταμοιβές και τέλη συναλλαγών δεσμεύοντας ελεύθερο χώρο στο δίκτυο για να βοηθήσουν στην ασφάλεια των συναλλαγών. Εδώ θα είναι το αγρόκτημά σας μόλις προσθέσετε ένα οικόπεδο. <0>Μάθετε περισσότερα</0>"
 
 #: src/components/farm/Farm.tsx:15
 #: src/components/farm/FarmerStatus.tsx:27
 #: src/components/farm/card/FarmCardStatus.tsx:29
 #: src/components/plot/PlotStatus.tsx:14
 msgid "Farming"
-msgstr "Farming"
+msgstr "Αγροτική"
 
 #: src/components/farm/card/FarmCardStatus.tsx:11
 #: src/components/farm/card/FarmCardStatus.tsx:16
@@ -675,7 +675,7 @@ msgstr "Farming"
 #: src/components/farm/card/FarmCardStatus.tsx:24
 #: src/components/farm/card/FarmCardStatus.tsx:28
 msgid "Farming Status"
-msgstr "Farming Status"
+msgstr "Κατάσταση Αγροτικής Ανάπτυξης"
 
 #: src/components/wallet/WalletHistory.tsx:53
 #: src/components/wallet/create/createExistingColouredCoin.jsx:131
@@ -1013,7 +1013,7 @@ msgstr "ID κόμβου"
 
 #: src/components/farm/FarmLastAttemptedProof.tsx:44
 msgid "None of your plots have passed the plot filter yet."
-msgstr "Κανένα από τα plots σας δεν έχει περάσει ακόμα το plot filter."
+msgstr "Κανένα από τα οικόπεδά σας δεν έχει περάσει ακόμα το φίλτρο σχεδίασης."
 
 #: src/components/farm/FarmerStatus.tsx:29
 #: src/components/farm/card/FarmCardNotAvailable.tsx:8
@@ -1024,7 +1024,7 @@ msgstr "Μη διαθέσιμο"
 
 #: src/components/fullNode/FullNode.jsx:122
 msgid "Not Synced"
-msgstr "Δεν έγινε συνγχρονισμός"
+msgstr "Δεν έχει συγχρονιστεί"
 
 #: src/components/trading/TradingOverview.jsx:227
 msgid "Not accepted yet"
@@ -1038,7 +1038,7 @@ msgstr "Δεν έχει επιβεβαιωθεί ακόμη"
 #: src/components/fullNode/FullNode.jsx:145
 #: src/components/fullNode/FullNode.jsx:152
 msgid "Not connected"
-msgstr "Μη συνδεδεμένο"
+msgstr "Χωρίς σύνδεση"
 
 #: src/components/plot/PlotsNotFound.tsx:24
 msgid "Not found Plots"
