@@ -8,7 +8,7 @@ msgstr ""
 "Language: es_ES\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-05-01 05:46\n"
+"PO-Revision-Date: 2021-05-02 23:47\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -73,7 +73,7 @@ msgstr "Añadir Parcela a la Cola"
 
 #: src/components/wallet/Wallets.tsx:83
 msgid "Add Wallet"
-msgstr "Añadir Monedero"
+msgstr "Añadir Cartera"
 
 #: src/components/farm/overview/FarmOverviewHero.tsx:35
 #: src/components/plot/PlotHeader.tsx:33
@@ -228,7 +228,7 @@ msgstr "Comprar"
 
 #: src/components/wallet/Wallets.tsx:36
 msgid "CC Wallet"
-msgstr "Monedero CC"
+msgstr "Cartera CC"
 
 #: src/components/wallet/create/WalletCreate.jsx:182
 #~ msgid "CCListItems.title"
@@ -667,7 +667,7 @@ msgstr "Los agricultores obtienen recompensas en bloque y tarifas de transacció
 #: src/components/farm/card/FarmCardStatus.tsx:29
 #: src/components/plot/PlotStatus.tsx:14
 msgid "Farming"
-msgstr "Joseando"
+msgstr "Cultivando"
 
 #: src/components/farm/card/FarmCardStatus.tsx:11
 #: src/components/farm/card/FarmCardStatus.tsx:16
