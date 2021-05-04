@@ -8,7 +8,7 @@ msgstr ""
 "Language: zh_CN\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-05-02 05:38\n"
+"PO-Revision-Date: 2021-05-04 01:59\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -339,7 +339,7 @@ msgstr "区块上已确认："
 
 #: src/components/wallet/WalletHistory.tsx:40
 msgid "Confirmed at height {0}"
-msgstr "区块高度确认 {0}"
+msgstr "确认于区块高度 {0}"
 
 #: src/components/fullNode/FullNodeAddConnection.tsx:70
 msgid "Connect"
@@ -1066,7 +1066,7 @@ msgstr "已创立的出价"
 
 #: src/components/wallet/WalletHistory.tsx:19
 msgid "Outgoing"
-msgstr "开支"
+msgstr "支出"
 
 #: src/components/fullNode/FullNode.jsx:166
 msgid "Peak Height"
@@ -1754,7 +1754,7 @@ msgstr "时间戳"
 
 #: src/components/wallet/WalletHistory.tsx:32
 msgid "To"
-msgstr "给"
+msgstr "目标地址"
 
 #: src/components/wallet/coloured/WalletColoured.tsx:287
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:565
@@ -1772,7 +1772,7 @@ msgstr "总迭代次数"
 
 #: src/components/farm/card/FarmCardTotalNetworkSpace.tsx:8
 msgid "Total Network Space"
-msgstr "全网大小"
+msgstr "全网占用空间"
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:91
 msgid "Total Plot Size:"
