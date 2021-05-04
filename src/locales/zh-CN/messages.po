@@ -8,7 +8,7 @@ msgstr ""
 "Language: zh_CN\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-05-04 01:59\n"
+"PO-Revision-Date: 2021-05-04 08:13\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -65,7 +65,7 @@ msgstr "添加"
 
 #: src/components/plot/PlotHeader.tsx:51
 msgid "Add Plot Directory"
-msgstr "添加农田文件目录"
+msgstr "添加农田文件夹"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:44
 msgid "Add Plot to Queue"
@@ -615,7 +615,7 @@ msgstr "预计区块发现时间"
 
 #: src/components/fullNode/FullNode.jsx:197
 msgid "Estimated network space"
-msgstr "预估网络大小"
+msgstr "全网已占用空间（估算）"
 
 #: src/components/fullNode/FullNode.jsx:200
 msgid "Estimated sum of all the plotted disk space of all farmers in the network"
@@ -780,7 +780,7 @@ msgstr "帮助"
 
 #: src/components/core/components/LocaleToggle/LocaleToggle.tsx:42
 msgid "Help translate"
-msgstr "帮助翻译"
+msgstr "改进翻译"
 
 #: src/components/core/components/AdvancedOptions/AdvancedOptions.tsx:35
 msgid "Hide Advanced Options"
@@ -809,15 +809,15 @@ msgstr "如果未指定，将会使用上述临时目录。"
 
 #: src/components/wallet/WalletImport.tsx:64
 msgid "Import Wallet from Mnemonics"
-msgstr "根据助记词导入钱包"
+msgstr "使用助记词导入钱包"
 
 #: src/components/selectKey/SelectKey.tsx:116
 msgid "Import from Mnemonics (24 words)"
-msgstr "自助记词导入(24个词)"
+msgstr "自助记词导入（24个词）"
 
 #: src/components/fullNode/FullNode.jsx:43
 msgid "In Progress"
-msgstr "进行中"
+msgstr "处理中"
 
 #: src/components/wallet/WalletHistory.tsx:20
 msgid "Incoming"
@@ -947,7 +947,7 @@ msgstr "分钟"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:73
 msgid "More memory slightly increases speed"
-msgstr "更多的内存可以略微增加速度"
+msgstr "增加内存可以略微提高速度"
 
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:429
 msgid "My Pubkey"
@@ -1003,7 +1003,7 @@ msgstr "无过往交易"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:91
 msgid "No private keys for one or both addresses. Safe only if you are sending rewards to another wallet."
-msgstr "这个地址没有对应的私钥, 建议把奖励发送到另外一个钱包."
+msgstr "本机没有所输入地址对应的私钥。请确认是否要将奖励发送至非本机钱包。"
 
 #: src/components/farm/FarmFullNodeConnections.tsx:20
 #: src/components/farm/FarmYourHarvesterNetwork.tsx:20
@@ -1097,7 +1097,7 @@ msgstr "待处理的找回"
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:595
 #: src/components/wallet/standard/WalletStandard.tsx:218
 msgid "Pending Total Balance"
-msgstr "待处理的总结余"
+msgstr "待处理总余额"
 
 #: src/components/trading/CreateOffer.jsx:109
 msgid "Please add a trade pair"
@@ -1397,7 +1397,7 @@ msgstr "从备份中恢复染色币与智能钱包的元信息"
 
 #: src/components/backup/BackupRestore.tsx:122
 msgid "Safe To Skip"
-msgstr "安全跳过"
+msgstr "可安全跳过此步骤"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:105
 #: src/components/trading/CreateOffer.jsx:160
@@ -1426,7 +1426,7 @@ msgstr "种子："
 
 #: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:70
 msgid "Select 2nd Temporary Directory"
-msgstr "选择第二临时目录"
+msgstr "选择第二临时文件夹"
 
 #: src/components/plot/add/PlotAddSelectFinalDirectory.tsx:29
 msgid "Select Final Directory"
@@ -1442,7 +1442,7 @@ msgstr "选择出价"
 
 #: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:39
 msgid "Select Temporary Directory"
-msgstr "选择临时目录"
+msgstr "选择临时文件夹"
 
 #: src/components/wallet/create/WalletCreate.jsx:108
 msgid "Select Wallet Type"
